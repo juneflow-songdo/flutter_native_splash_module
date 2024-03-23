@@ -1,0 +1,44 @@
+name: flutter_native_splash_module
+description: "JuneFlow Module"
+#publish_to: 'none'
+#repository: https://github.com/melodysdreamj/juneflow
+
+version: 0.0.1+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  go_router: ^13.2.0
+  june_flow_util:
+  flutter_native_splash: ^2.4.0 #@add
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+#@add start
+flutter_native_splash:
+  color: "#ffffff"
+  #background_image: "assets/splash/background.png"
+  image: assets/module/flutter_native_splash/icon.png
+
+  color_dark: "#ffffff"
+  ##background_image_dark: "assets/dark-background.png"
+  image_dark: assets/module/flutter_native_splash/icon.png
+
+  #android: false
+  #ios: false
+  #web: false
+
+  #android_gravity: center
+  #ios_content_mode: center
+  #web_image_mode: center
+
+  fullscreen: true
+#@add end
