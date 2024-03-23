@@ -1,7 +1,7 @@
 name: flutter_native_splash_module
-description: "JuneFlow Module"
+description: "JuneFlow Module for Flutter Native Splash"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/flutter_native_splash_module
 
 version: 0.0.1+1
 
