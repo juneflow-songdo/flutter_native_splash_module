@@ -3,7 +3,7 @@ description: "JuneFlow Module for Flutter Native Splash"
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/flutter_native_splash_module
 
-version: 0.0.1+1
+version: 0.0.1+2
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -25,12 +25,12 @@ flutter:
 #@add start
 flutter_native_splash:
   color: "#ffffff"
-  #background_image: "assets/splash/background.png"
-  image: assets/module/flutter_native_splash/icon.png
+  #background_image: "assets/module/flutter_native_splash_module/background.png"
+  image: assets/module/flutter_native_splash_module/splash_icon.png
 
   color_dark: "#ffffff"
-  ##background_image_dark: "assets/dark-background.png"
-  image_dark: assets/module/flutter_native_splash/icon.png
+  ##background_image_dark: "assets/module/flutter_native_splash_module/dark-background.png"
+  image_dark: assets/module/flutter_native_splash_module/splash_icon.png
 
   #android: false
   #ios: false

@@ -9,6 +9,10 @@ Flutter_native_splash is a module designed to be easily used.
  ```bash
  june add flutter_native_splash_module
  ```
+3. after that, enter the following command.
+ ```bash
+dart run flutter_native_splash:create
+ ```
 
 ## Usage
 Usage here
