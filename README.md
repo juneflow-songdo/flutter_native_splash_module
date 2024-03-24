@@ -1,5 +1,10 @@
 [![pub package](https://img.shields.io/pub/v/flutter_native_splash_module.svg)](https://pub.dartlang.org/packages/flutter_native_splash_module)
 
+<p>
+  <a href="https://github.com/melodysdreamj/juneflow">Juneflow</a> •
+  <a href="https://doc.juneflow.org/get-started">Documentation</a>
+</p>
+
 # flutter_native_splash_module
 Flutter_native_splash is a module designed to be easily used.
 
