@@ -4,6 +4,6 @@ import 'package:flutter_native_splash/flutter_native_splash.dart';
 import '../../../../../../main.dart';
 
 @ReadyAfterMaterialApp()
-Future<void> readyForFlutterNativeSplashModule(BuildContext context) async {
+void readyForFlutterNativeSplashModule(BuildContext context) {
   FlutterNativeSplash.remove();
 }
